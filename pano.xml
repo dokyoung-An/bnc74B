@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tour start="node12" appversion="7.0.6" apprev="20004">
   <panorama id="node12">
-    <input height="2000" levelingpitch="0" levelbias="0.400" overlap="1" leveltileurl="tiles/node12/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2000" levelbiashidpi="1.000" leveltilesize="510" levelingroll="0">
-      <level height="2000" width="2000" predecode="0" preload="0"/>
-      <level height="1000" width="1000" predecode="0" preload="0"/>
-      <level height="500" width="500" predecode="1" preload="1"/>
+    <input height="3000" levelingpitch="0" levelbias="0.400" overlap="1" leveltileurl="tiles/node12/cf_%c/l_%l/c_%x/tile_%y.jpg" width="3000" levelbiashidpi="1.000" leveltilesize="510" levelingroll="0">
+      <level height="3000" width="3000" predecode="0" preload="0"/>
+      <level height="1500" width="1500" predecode="0" preload="0"/>
+      <level height="750" width="750" predecode="0" preload="0"/>
+      <level height="375" width="375" predecode="1" preload="1"/>
       <preview strip="1" color="0x808080"/>
     </input>
     <view pannorth="0" fovmode="2">
@@ -158,10 +159,10 @@
       <hotspot title="거실" tilt="-5.95" pan="-4.86" id="Point02" skinid="ht_node" url="{node1}" description="" target=""/>
       <hotspot title="주방" tilt="-7.49" pan="-288.24" id="Point03" skinid="ht_node" url="{node8}" description="" target=""/>
       <hotspot title="안방" tilt="0.68" pan="-267.15" id="Point04" skinid="ht_node" url="{node5}" description="" target=""/>
-      <hotspot title="욕실1" tilt="-0.23" pan="-153.21" id="Point05" skinid="ht_node" url="{node6}" description="" target=""/>
-      <hotspot title="현관" tilt="-11.28" pan="-166.31" id="Point06" skinid="ht_node" url="{node12}" description="" target=""/>
+      <hotspot title="욕실1" tilt="-0.55" pan="-153.51" id="Point05" skinid="ht_node" url="{node6}" description="" target=""/>
+      <hotspot title="현관" tilt="-11.3" pan="-165.32" id="Point06" skinid="ht_node" url="{node12}" description="" target=""/>
       <hotspot title="복도" tilt="-24.57" pan="-152.65" id="Point07" skinid="ht_node" url="{node4}" description="" target=""/>
-      <hotspot title="침실3" tilt="-10.78" pan="-142.97" id="Point10" skinid="ht_node" url="{node10}" description="" target=""/>
+      <hotspot title="침실3" tilt="-10.86" pan="-144.15" id="Point10" skinid="ht_node" url="{node10}" description="" target=""/>
       <hotspot title="침실2" tilt="-15.27" pan="-109.76" id="Point08" skinid="ht_node" url="{node9}" description="" target=""/>
     </hotspots>
     <media>
